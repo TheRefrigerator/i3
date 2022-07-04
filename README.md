@@ -1,1 +1,1 @@
-My i3 config, because it's better than yours
+This is mainly for my own convenience, so just don't quenstion anything.
